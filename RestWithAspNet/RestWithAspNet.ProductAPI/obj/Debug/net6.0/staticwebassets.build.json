@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XWpS4Ze2fyB/mkLzfMVCrnXPcDPbwvUAsHEG0NIxQLY=",
+  "Source": "RestWithAspNet.ProductAPI",
+  "BasePath": "_content/RestWithAspNet.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
